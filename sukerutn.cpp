@@ -1,6 +1,6 @@
 #include <iostream>
 #define CPP2_PRIME_UPPER_LIMIT 1000000 //探索する値の上限値。
-using name space std;
+using namespace std;
 /* --------------------------------------------------------------- */
 /*
 * nth_prime
